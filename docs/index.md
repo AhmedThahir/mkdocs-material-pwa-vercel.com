@@ -1,4 +1,4 @@
-## Mkdocs Material PWA
+## Mkdocs Material PWA Test
 
 Welcome to Mkdocs Material PWA  
 
